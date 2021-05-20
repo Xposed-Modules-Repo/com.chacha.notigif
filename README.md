@@ -4,7 +4,7 @@
 /!\ SystemUI must be restart to apply modifications /!\
 Officially working with :
 OneUI (1.0 & 2.x)
-AOSP (Oreo & Pie)
+AOSP (N to R)
 
 /*PS : Don't hesitate to try it on your rom and tell me if it work or no, I can support a lot of roms with your help*/
 
@@ -21,8 +21,8 @@ Contact :
 If you want to help me or suggest me some ideas you can send mail
 Mail : jck0day@gmail.com
 My other module :
-[Samsung Music Customiser]()
-[Samsung Messages Customiser](https://forum.xda-developers.com/and...miser-t4104635)
+[Samsung Music Customiser](https://forum.xda-developers.com/t/xposed-lsposed-samsung-music-customiser-change-app-colors.4076893/)
+[Samsung Messages Customiser](https://forum.xda-developers.com/t/xposed-lsposed-samsung-messages-customiser-change-app-colors.4104635/)
 ###You can give me [donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A3YW496LXQZ5A&source=url) if you want to support all my free works. A big thanks if you give me this reward it's very sympathic :)
 
 Thank you for reading this, don't forget to press thanks on my XDA page ^_^
