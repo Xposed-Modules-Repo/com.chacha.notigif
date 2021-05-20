@@ -29,7 +29,7 @@ My other module :
 
 [Samsung Messages Customiser](https://forum.xda-developers.com/t/xposed-lsposed-samsung-messages-customiser-change-app-colors.4104635/)
 
-###You can give me [donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A3YW496LXQZ5A&source=url) if you want to support all my free works. A big thanks if you give me this reward it's very sympathic :)
+## You can give me [donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A3YW496LXQZ5A&source=url) if you want to support all my free works. A big thanks if you give me this reward it's very sympathic :)
 
 Thank you for reading this, don't forget to press thanks on my XDA page ^_^
 PS : I'm french, so I try to speak english I hope your eyes still lives and that there are not too mistakes.
