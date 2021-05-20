@@ -21,6 +21,7 @@ OxygenOS
 Contact :
 If you want to help me or suggest me some ideas you can send mail
 Mail : jck0day@gmail.com
+
 My other module :
 
 [Samsung Music Customiser](https://forum.xda-developers.com/t/xposed-lsposed-samsung-music-customiser-change-app-colors.4076893/)
