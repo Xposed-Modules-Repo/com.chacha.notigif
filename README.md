@@ -6,6 +6,7 @@ Officially working with :
 OneUI (1.0 & 2.x)
 AOSP (N to R)
 OxygenOS
+MIUI
 
 /*PS : Don't hesitate to try it on your rom and tell me if it work or no, I can support a lot of roms with your help*/
 
