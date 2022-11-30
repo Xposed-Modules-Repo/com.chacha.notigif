@@ -22,7 +22,7 @@ MIUI
 Contact :
 If you want to help me or suggest me some ideas you can send mail
 
-Mail : jck0day@gmail.com
+Mail : xhookmandev@gmail.com
 
 My other module :
 
